@@ -8,7 +8,7 @@ const About = () => {
       <div className="about-content">
         <div className="profile-section">
           <img 
-            src="imgs\profile.png" 
+            src="imgs/profile.png" 
             alt="Maxwell Laskey-Cthaeh" 
             className="profile-image"
           />
