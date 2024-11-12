@@ -10,8 +10,8 @@ const Portfolio = () => {
         {projectList && projectList.map((project, index) => (
           <div key={index} className="project-card">
             <img 
-              src={project.image} 
-              alt={project.title} 
+              src={project.image}
+              alt={project.title}
               className="project-image"
             />
             <div className="project-content">
