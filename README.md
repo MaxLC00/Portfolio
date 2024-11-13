@@ -1,6 +1,5 @@
-# week-twenty-challenge-karenas
+# Portfolie
 
-# week-twelve-challenge-karenas
 ## Description
 This project uses React to create a portfolio application.
 
@@ -17,7 +16,9 @@ Users can use the navigation bar to navigate between pages of this portfolio app
 
 Users are able to view my Resume, About and Portfolio. The portfolio page includes links to some of my github repositories which I think best represent my work.
 
+### Credits:
 
+Katherine Arenas for the project list data idea
 
 ### Deployment:
 
